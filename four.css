@@ -1,0 +1,23 @@
+body {
+    
+    background-image: url(four.png);
+    
+    
+    background-position: center center;
+    
+    
+    background-repeat: no-repeat;
+    
+   
+    background-attachment: fixed;
+ 
+    background-size: cover;
+    
+
+    background-color: #464646;
+    }
+
+    .four{
+        margin-top: 20px;
+    margin-left: 250px;
+        }

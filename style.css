@@ -1,0 +1,23 @@
+body {
+    
+    background-image: url(one.png);
+    
+    
+    background-position: center center;
+    
+    
+    background-repeat: no-repeat;
+    
+   
+    background-attachment: fixed;
+ 
+    background-size: cover;
+    
+
+    background-color: #464646;
+    }
+
+    .one{
+    margin-top: 150px;
+margin-left: 600px;
+    }
